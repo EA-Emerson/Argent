@@ -662,11 +662,11 @@ ul li{
         justify-content: center;
     }
     .applestore{
-        width: 100%;
+        width: 80%;
         display: flex;
         align-items: center;
         padding-top: 40px;
-        justify-content: space-around;
+        justify-content: space-between;
         text-align: center;
     }
     .big{
