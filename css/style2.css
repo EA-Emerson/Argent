@@ -662,12 +662,15 @@ ul li{
         justify-content: center;
     }
     .applestore{
-        width: 80%;
+        width: 100%;
         display: flex;
         align-items: center;
         padding-top: 40px;
         justify-content: space-between;
         text-align: center;
+    }
+    .google, .apple{
+        Width: 30vw;
     }
     .big{
         width: 100%;
