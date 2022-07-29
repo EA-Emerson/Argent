@@ -1102,4 +1102,7 @@ ul li{
         padding-bottom: 10vh;
         
     }
+    .google, .apple{
+        Width: 30vw;
+    }
 }
