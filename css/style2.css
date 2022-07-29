@@ -666,12 +666,10 @@ ul li{
         display: flex;
         align-items: center;
         padding-top: 40px;
-        justify-content: space-between;
+        justify-content: space-evenly;
         text-align: center;
     }
-    .google, .apple{
-        Width: 30vw;
-    }
+
     .big{
         width: 100%;
         padding: none;
@@ -1103,6 +1101,6 @@ ul li{
         
     }
     .google, .apple{
-        Width: 30vw;
+        Width: 40vw;
     }
 }
